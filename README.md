@@ -5,7 +5,7 @@ Permanente, currently building data science projects on healthcare data.
 
 ## 🔬 Projects
 
-**[Medicare Patient Risk Analysis](https://github.com/jeffreyjblee/medicare-readmission-analysis)**  
+**[Medicare Readmission Risk Analysis](https://github.com/jeffreyjblee/medicare-readmission-analysis)**  
 Used machine learning to analyze hospital readmission risk in a Medicare 
 population of 188,559 patients. Found that readmission rates climb almost 
 perfectly from 11% to 94% as chronic conditions increase, and identified 
