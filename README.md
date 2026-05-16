@@ -18,7 +18,7 @@ Python, SQL, pandas, scikit-learn, matplotlib, seaborn, Jupyter,
 Tableau, Git, GitHub
 
 ## 🏥 Background
-Medicare Advantage, Risk Scores, Star Ratings, FP&A, Healthcare
+Medicare Advantage, Risk Scores, Star Ratings, FP&A, Healthcare, Business Analytics
 
 ## 💫 Outside of work
 🥋 Blue belt in Brazilian Jiu-Jitsu  
